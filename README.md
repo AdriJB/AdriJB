@@ -21,7 +21,7 @@
 
 ### Sobre mi
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
-- 🔭 Estoy trabajando en un Bot de Discord.js llamado [Squad Dinamita Bot](https://dewstouh.github.io/niby)
+- 🔭 Estoy trabajando en un Bot de Discord.js llamado [Squad Dinamita Bot](https://discord.gg/EQsCj4ZDSU)
 - 👯 Buscando colaborar con otros desarolladores :wink:
 - 🥅 Metas 2022: Aprender Python
 - 💬 Preguntame lo que quieras! :smile:
