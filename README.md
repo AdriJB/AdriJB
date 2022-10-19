@@ -5,7 +5,7 @@
 ***
 
 <p>
-  <h4 align="center"><b><i>"Sigue Programando, Sigue Innovando."</i></b></h4>
+  <h4 align="center"><b><i>":trophy:	Sigue Programando, Sigue Innovando. :trophy:"</i></b></h4>
 </p>
 
 ***
@@ -38,6 +38,7 @@
 ### Lenguajes y Herramientas: 
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio" width="35px" src="https://user-images.githubusercontent.com/96456370/196570912-cda6979a-98d9-4389-b15a-29ef508e2dff.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -50,7 +51,10 @@
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="After Effects" width="35px" src="https://user-images.githubusercontent.com/53043542/151185719-b4c4adf8-a6d9-445c-b1b6-a8a5ce1e3322.png" />
 <img align="left" alt="Adobe Photoshop CC" width="35px" src="https://user-images.githubusercontent.com/53043542/151185770-748957dd-19af-495e-9185-a966698db64d.png" />
+<img align="left" alt="Animate" width="35px" src="https://vignette.wikia.nocookie.net/adobe/images/e/e7/Adobe_Animate_CC_icon_2020.png/revision/latest?cb=20201017140723" />
 <img align="left" alt="FL Studio 20" width="35px" src="https://static.wikia.nocookie.net/softwareprogramas-y-aplicaciones/images/0/0b/Flstudio.png/revision/latest?cb=20160301021919&path-prefix=es" />
+
+
 <br>
 <br>
 <br>
