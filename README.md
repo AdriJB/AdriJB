@@ -61,6 +61,8 @@
 <br>
 
 ***
+### 📧Contacto: 📧
+![](https://discord.c99.nl/widget/theme-2/453327667433832449.png)
 
 ### 🚀 Estadísticas de Github 🚀
 
