@@ -22,7 +22,7 @@
 ### Sobre mi
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
 - 🔭 Estoy trabajando en un Bot de Discord.js llamado [Squad Dinamita Bot](https://discord.gg/EQsCj4ZDSU)
-- 🥅 Metas 2022: Aprender Python
+- 🥅 Metas 2023: Aprender Python
 - 💬 Preguntame lo que quieras! :smile:
 - 📬 Contacta conmigo: [Discord | Squad Dinamita](https://discord.gg/EQsCj4ZDSU)
 - 🧗 Intento superar mis limites y aprender muchas cosas.
