@@ -17,7 +17,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https:" />
+<img align="right" height="270px" alt="GIF" src="https://flyclipart.com/thumb2/scratch-569428.png" />
 
 ### Sobre mi
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
