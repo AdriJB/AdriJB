@@ -28,7 +28,7 @@
 - 🧗 Intento superar mis limites y aprender muchas cosas.
 - 📹 También tengo experiencia en edición de video con After Effects y Sony Vegas
 - 🖼 No solo he usado After Effects y Sony Vegas, si no que también se manejar Adobe Photoshop y Adobe Animate! 😎
-- 🎶 Y por si te parecía poco... ¡También he usado VB.NET! :exploding_head:
+
 
 <br>
 
