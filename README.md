@@ -23,11 +23,8 @@
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
 - 🔭 Estoy trabajando en un Bot de Discord.js llamado [Squad Dinamita Bot](https://discord.gg/EQsCj4ZDSU)
 - 🥅 Metas 2023: Aprender Python
-- 💬 Preguntame lo que quieras! :smile:
 - 📬 Contacta conmigo: [Discord | Squad Dinamita](https://discord.gg/EQsCj4ZDSU)
 - 🧗 Intento superar mis limites y aprender muchas cosas.
-- 📹 También tengo experiencia en edición de video con After Effects y Sony Vegas
-- 🖼 No solo he usado After Effects y Sony Vegas, si no que también se manejar Adobe Photoshop y Adobe Animate! 😎
 
 
 <br>
