@@ -57,7 +57,7 @@
 
 ***
 ### 👾 Discord 👾:
-![](https://discord.c99.nl/widget/theme-2/453327667433832449.png)
+![](https://discord.c99.nl/widget/theme-4/453327667433832449.png)
 
 ### 🚀 Estadísticas de Github 🚀
 
